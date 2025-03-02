@@ -1,5 +1,5 @@
 
-## Credit Risk Analtsis
+## Credit Risk Modeling 
 
 ### Project Overview
 This project aims to analyze credit risk using machine learning techniques. It includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and evaluation. The goal is to develop a predictive model that assesses the likelihood of loan default.
