@@ -106,10 +106,10 @@ The project uses financial datasets related to credit risk. The following datase
 
 
 ```bash 
-├── data/		    # Raw and processed datasets
-├── notebooks/	    # Vscode and  Colab for analysis and model building
-├── models/	        # Trained machine learning models
-├── reports/	    # Documentation and findings
+├── data/		       # Raw and processed datasets
+├── notebooks/    # Vscode and  Colab for analysis and model building
+├── models/	      # Trained machine learning models
+├── reports/	     # Documentation and findings
 ├── README.md	    # Project description
 ```
     
