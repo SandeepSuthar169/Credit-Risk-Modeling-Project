@@ -16,32 +16,6 @@ The project uses financial datasets related to credit risk. The following datase
 
 | Case_study1 table | Variable     |       Description                 |
 | :-------- | :------- | :-------------------------------- |
-| Internal      | Total_TL | Total trade lines/accounts in Bureau
-| | TOt_Closed_TL | TOtal closed tradeline/accounts |
-| |Tot_Active_TL  | Total active accounts|
-| |Total_TLopened_L6M | Total accounts opened in laset 6 Months|
-| |Tot_TL_closed_L6M  | Total accounts closes in laset 6 Months|
-| |pct_tl_open_L6M    | Percent accounts opened in last 6 months|
-| |pct_tl_closed_L6M  | percent accounts cloded in  last 6 months|
-| |pct_active_tl      | Percent active accounts|
-| |pct_closed_tl      | Percent closed accounts|
-| |Total_TL_opened_L12M| Total accounts opened in last 12 Months|
-| |Tot_TL_closed_L12M  | Total accounts closed in lat 12 Months|
-| |pct_tl_open_L12M    | Percent accounts opened in last 12 months|
-| |pct_tl_closed_L12M  | percent accounts closed in last 12 months|
-| |Tol_Missed_Pmnt     | Total missed Paymants|
-| |Auto_TL |Countombile accounts|
-| |CC_TL |Count of Credit cart accounts|
-| |Consemer_TL |Counts of Consumer goods accounts|
-| |GOld_TL |Count of Gold loan accounts|
-| |Home_TL |Count of Housing loan accounts|
-| |PL_TL |Count of Personal loan accounts|
-| |Secured_TL |Count of secured accounts|
-| |Unsecured_TL |Count of unsecured accounts|
-| |Other_TL |Count if other accounts|
-| |Age_oldet_TL|Age of oldest opened account|
-| |Age_Newest_TL |Age of newest opened accounts|
-| Case study2 Table| | |
 |Ciblil|time_since recent_payment|Time Since recent Payment made|
 |External|time_since_first_deliquency|Time seice first Deliquency(midded payment)|
 | |time_since_delinquent|Time Since recent Delinquency|
