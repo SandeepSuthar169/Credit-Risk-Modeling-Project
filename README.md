@@ -24,6 +24,7 @@ The project uses financial datasets related to credit risk. The following datase
 ├── reports/	     # Documentation and findings
 ├── README.md	    # Project description
 ```
+
     
 ## Installation
 1. Clone the repository:
