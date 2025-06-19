@@ -13,7 +13,6 @@ The project uses financial datasets related to credit risk. The following datase
  -  **Features_Target_Description.xlsx.csv:** Provides a description of features and target variables.
 
 
-
 ### project Structure
 
 
